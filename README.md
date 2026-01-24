@@ -1,7 +1,8 @@
 # Retail Sales Performance Analysis
 
 ##  The project overview...
-This project analyzes retail sales data to uncover trends, identify high-performing products and regions, and provide actionable business insights using Excel.
+This project analyzes retail sales data to uncover trends, identify high-performing products and regions, and provide actionable business insights using Excel.This project was created as part of my preparation for an internship, with a focus on demonstrating practical Excel-based data analysis and clear communication of insights.
+
 
 ## Dataset
 The dataset contains transactional retail sales data with the following key attributes:
