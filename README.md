@@ -18,7 +18,7 @@ The dataset contains transactional retail sales data with the following key attr
 
 - The data was sourced from Kaggle and imported into Excel for analysis.
 
-##Tools Used
+ ##Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Basic Data Cleaning
