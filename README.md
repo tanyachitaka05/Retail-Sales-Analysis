@@ -44,7 +44,7 @@ The dataset contains transactional retail sales data with the following key attr
 - ## Visual Analysis
 
 ### Revenue by Product Category
-![Product Category Pivot]("C:\Users\Tanya\OneDrive - Richfield Graduate Institute of Technology\Pictures\Screenshots\Screenshot 2026-01-24 185531.png")
+![Product Category Pivot] (https://github.com/tanyachitaka05/Retail-Sales-Analysis/blob/main/docs/docs/screenshots/Screenshot%202026-01-24%20185531.png)
 
 ### Revenue by Gender
 ![Gender Revenue Pivot](docs/screenshots/gender_revenue_pivot.png)
