@@ -41,6 +41,15 @@ The dataset contains transactional retail sales data with the following key attr
 - Electronics contribute the highest share of total sales.
 - Revenue distribution across genders shows noticeable variation, indicating potential for targeted marketing strategies.
 
+- ## Visual Analysis
+
+### Revenue by Product Category
+![Product Category Pivot]("C:\Users\Tanya\OneDrive - Richfield Graduate Institute of Technology\Pictures\Screenshots\Screenshot 2026-01-24 185531.png")
+
+### Revenue by Gender
+![Gender Revenue Pivot](docs/screenshots/gender_revenue_pivot.png)
+
+
  ## Project Structure
  
 - data/ → Contains the retail sales dataset (CSV file)
