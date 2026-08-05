@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Performance Analysis
+#  Retail Sales Performance Analysis
 
 I analyzed a retail sales dataset in Excel to figure out what's actually driving revenue — which products sell best, how sales differ by gender, and where the business could focus more attention. I built this as a portfolio project to practice real-world Excel analysis and get better at explaining data insights clearly.
 
