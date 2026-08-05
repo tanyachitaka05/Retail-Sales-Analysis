@@ -1,65 +1,46 @@
-# Retail Sales Performance Analysis
+# 🛍️ Retail Sales Performance Analysis
 
-##  The project overview...
-This project analyzes retail sales data to uncover trends, identify high-performing products and regions, and provide actionable business insights using Excel.This project was created as part of my preparation for an internship, with a focus on demonstrating practical Excel-based data analysis and clear communication of insights.
+I analyzed a retail sales dataset in Excel to figure out what's actually driving revenue — which products sell best, how sales differ by gender, and where the business could focus more attention. I built this as a portfolio project to practice real-world Excel analysis and get better at explaining data insights clearly.
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
-## Dataset
-The dataset contains transactional retail sales data with the following key attributes:
-- Transaction ID
-- Date
-- Customer ID
-- Gender
-- Age
-- Product Category
-- Quantity
-- Price per Unit
-- Total Amount
+---
 
-- The data was sourced from Kaggle and imported into Excel for analysis.
+## What I was trying to find out
 
- ##Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Basic Data Cleaning
-- Data Visualization (Charts)
-
-## The business questions...
-- What is the total sales and profit?
-- Which product categories generate the most revenue?
-- Which regions perform best and worst?
+- What's the total sales and profit?
+- Which product categories bring in the most revenue?
 - How do sales trends change over time?
-- Are there products with high sales but low profit?
+- Are there products that sell a lot but aren't actually profitable?
 
-## Analysis Performed
-- Analyzed total revenue by product category
-- Identified Electronics as the highest revenue-generating category
-- Performed gender-based revenue analysis using pivot tables
-- Created visualizations to support findings
+## What I did
 
- ## Key Insights
-- Electronics contribute the highest share of total sales.
-- Revenue distribution across genders shows noticeable variation, indicating potential for targeted marketing strategies.
+- Cleaned and organized the raw transaction data
+- Built pivot tables to break revenue down by product category and gender
+- Made charts to visualize the patterns I found
+- Pulled out the insights that actually matter for the business
 
-- ## Visual Analysis
+## What I found
 
-### Revenue by Product Category
-![Product Category Pivot] https://github.com/tanyachitaka05/Retail-Sales-Analysis/blob/main/docs/docs/screenshots/Screenshot%202026-01-24%20185531.png
+- **Electronics is the top-performing category** — it brings in the biggest share of total sales
+- **Revenue splits noticeably by gender**, which points to an opportunity for more targeted marketing
 
-### Revenue by Gender
+## The data
 
-![Gender Revenue Pivot] https://github.com/tanyachitaka05/Retail-Sales-Analysis/blob/main/docs/docs/screenshots/Screenshot%202026-01-24%20185521.png
+The dataset is transactional retail sales data with fields like transaction ID, date, customer demographics (gender, age), product category, quantity, price, and total amount. Sourced from Kaggle.
 
-(docs/screenshots/gender_revenue_pivot.png)
+## A look at the analysis
 
+![Revenue by Product Category](docs/screenshots/Screenshot%202026-01-24%20185531.png)
+![Revenue by Gender](docs/screenshots/Screenshot%202026-01-24%20185521.png)
 
- ## Project Structure
- 
-- data/ → Contains the retail sales dataset (CSV file)
-- analysis/ → Excel file with pivot tables and analysis
-- README.md → Project documentation
+## How it's organized
 
+- `data/` — the raw dataset
+- `analysis/` — the Excel workbook with pivot tables and charts
+- `docs/` — screenshots referenced in this README
 
-This project demonstrates my ability to work with real-world data, perform structured analysis, and communicate insights clearly using Excel. This is really just the beginning!!!
+---
 
-
+This was a good exercise in going from raw numbers to a clear business story — and it's the first of a few analytics projects I'm building as I get ready to apply for internships.
