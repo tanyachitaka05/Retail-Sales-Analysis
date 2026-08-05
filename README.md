@@ -1,6 +1,6 @@
 #  Retail Sales Performance Analysis
 
-I analyzed a retail sales dataset in Excel to figure out what's actually driving revenue — which products sell best, how sales differ by gender, and where the business could focus more attention. I built this as a portfolio project to practice real-world Excel analysis and get better at explaining data insights clearly.
+I analyzed a retail sales dataset in Excel to figure out what's actually driving revenue which products sell best, how sales differ by gender, and where the business could focus more attention. I built this as a portfolio project to practice real-world Excel analysis and get better at explaining data insights clearly.
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
@@ -23,7 +23,7 @@ I analyzed a retail sales dataset in Excel to figure out what's actually driving
 
 ## What I found
 
-- **Electronics is the top-performing category** — it brings in the biggest share of total sales
+- **Electronics is the top-performing category**  it brings in the biggest share of total sales
 - **Revenue splits noticeably by gender**, which points to an opportunity for more targeted marketing
 
 ## The data
@@ -43,4 +43,4 @@ The dataset is transactional retail sales data with fields like transaction ID, 
 
 ---
 
-This was a good exercise in going from raw numbers to a clear business story — and it's the first of a few analytics projects I'm building as I get ready to apply for internships.
+This was a good exercise in going from raw numbers to a clear business story and it's the first of a few analytics projects I'm building as I get ready to apply for internships.
